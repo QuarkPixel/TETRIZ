@@ -1,0 +1,3 @@
+D:/Programme/C++/TETRIZ/cmake-build-debug/CMakeFiles/TETRIZ.dir
+D:/Programme/C++/TETRIZ/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programme/C++/TETRIZ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
