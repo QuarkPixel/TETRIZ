@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(TETRIZ main.cpp
         terminal.h
-        terminal.cpp)
+        terminal.cpp
+        utils.h
+        utils.cpp)

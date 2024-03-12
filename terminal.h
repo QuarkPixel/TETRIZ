@@ -6,19 +6,19 @@
 #define TETRIZ_TERMINAL_H
 
 namespace tc {
-    void moveTo(int row, int col);
+    void move_to(int row, int col);
 
-    void setForeColor(int id);
+    void set_fore_color(int id);
 
-    void setBackColor(int id);
+    void set_back_color(int id);
 
-    void cleanScreen();
+    void clean_screen();
 
-    void resetColor();
+    void reset_color();
 
-    void hideCursor();
+    void hide_cursor();
 
-    void showCursor();
+    void show_cursor();
 }
 
 #endif //TETRIZ_TERMINAL_H
